@@ -14,6 +14,9 @@ z podkapitoly 5.1.4.
 charakteristika sústavy druhého rádu. Identifikujte sústavu metódou
 momentov (podkapitola 5.2.1), pričom uvažujte prenosové funkcie s nulou 
 
+```
+x=2+1
+```
 ## Priklad 1
 
 <p align="center">
